@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 2.99,
+      "imgUrl": "/imgs/apple.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Watermelon",
+      "price": 13.99,
+      "imgUrl": "/imgs/watermelon.webp"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 4.99,
+      "imgUrl": "/imgs/banana.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Melon",
+      "price": 12.99,
+      "imgUrl": "/imgs/melon.webp"
+    },
+    {
+      "id": 6,
+      "name": "Strawberry",
+      "price": 6.99,
+      "imgUrl": "/imgs/strawberry.webp"
+    },
+    {
+      "id": 7,
+      "name": "Cherry",
+      "price": 5.59,
+      "imgUrl": "/imgs/cherry.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Orange",
+      "price": 3.49,
+      "imgUrl": "/imgs/orange.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Lemon",
+      "price": 3.49,
+      "imgUrl": "/imgs/lemon.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Pineapple",
+      "price": 15.99,
+      "imgUrl": "/imgs/pineapple.webp"
+    },
+    {
+      "id": 11,
+      "name": "Grape",
+      "price": 6.49,
+      "imgUrl": "/imgs/grape.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Avocado",
+      "price": 9.99,
+      "imgUrl": "/imgs/avocado.jpeg"
+    }
+  ]
